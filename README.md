@@ -1,4 +1,4 @@
-![d45fce897febf1b5a8fa](https://github.com/user-attachments/assets/a4da6d0d-95fa-4d44-b451-519e238776a1)<h2 align="center">
+
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
@@ -39,7 +39,7 @@ Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp d
 ## 🚀 3. Hình ảnh các chức năng
 
 ### Trang dashboard 
-<img width="1885" height="935" alt="image" src="d45fce897febf1b5a8fa" />
+<img width="1885" height="935" alt="image" src="https://github.com/user-attachments/assets/a4da6d0d-95fa-4d44-b451-519e238776a1" />
 ### Trang Nhân viên
 <img width="1886" height="940" alt="image" src="https://github.com/user-attachments/assets/486fc55b-6c61-46e6-9c92-ca52ad7ad1b2" />
 ### Trang Dự án
