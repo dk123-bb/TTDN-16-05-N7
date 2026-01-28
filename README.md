@@ -37,17 +37,18 @@ Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp d
 </div>
 
 ## 🚀 3. Hình ảnh các chức năng
+![duan](https://github.com/user-attachments/assets/85f8a5ce-dc45-47b4-867c-7928334707a1)
 
 ### Trang dashboard 
 <img width="1885" height="935" alt="image" src="https://github.com/user-attachments/assets/a4da6d0d-95fa-4d44-b451-519e238776a1" />
 ### Trang Nhân viên
-<img width="1886" height="940" alt="image" src="https://github.com/user-attachments/assets/486fc55b-6c61-46e6-9c92-ca52ad7ad1b2" />
+<img width="1886" height="940" alt="image" src="https://github.com/user-attachments/assets/ccd99c63-f3a3-474f-a479-14d474279459" />
 ### Trang Dự án
-<img width="1890" height="932" alt="image" src="https://github.com/user-attachments/assets/2b5e861a-8a59-4505-8149-4ceb1ec6b503" />
+<img width="1890" height="932" alt="image" src="https://github.com/user-attachments/assets/349d27b5-1e2c-4cde-8bdf-df3e6346414d" />
 ### Trang Chuc vu
-<img width="1901" height="939" alt="image" src="https://github.com/user-attachments/assets/f3c88b32-5c7e-4911-b977-303523e5e4e3" />
+<img width="1901" height="939" alt="image" src="https://github.com/user-attachments/assets/0903ffdb-195a-4793-a57d-3362f3dcefdd" />
 ### Trang Cong viec nhan vien
-<img width="1892" height="938" alt="image" src="https://github.com/user-attachments/assets/0ed13de0-2745-4770-b045-980c513a380d" />
+<img width="1892" height="938" alt="image" src="https://github.com/user-attachments/assets/6e8de269-7d69-4315-92bc-9134998ba666" />
 
 ## ⚙️ 4. Cài đặt
 
